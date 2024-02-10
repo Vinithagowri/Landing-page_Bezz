@@ -1,0 +1,55 @@
+.card-body > p{
+    
+    text-align: left ;
+}
+.card{
+    height: fit-content;
+    margin-bottom: 15px !important;
+    min-width: 300px ;
+    
+}
+a{
+    font-size: 50px ;
+}
+.places > h3{
+    background-color: black;
+}
+.card-img-top {
+    height: 200px; /* Set the desired height here */
+    width: 100%; /* Set the width to occupy the full card width */
+    object-fit: cover; /* This property will ensure that the image covers the entire area of the card-img-top without distortion */
+  }
+  .card {
+    height: fit-content;
+    width: 300px ;
+    margin-bottom: 15px;
+   
+ /* Add this line to create a gap between cards */
+    min-width: 300px;
+}
+.navbar-nav > li >a{
+    font-size: 25px ;
+    margin-right: 30px;
+    font-family: serif;
+    
+}
+.card {
+    height: fit-content;
+    width: 300px;
+    margin-bottom: 15px;
+    min-width: 300px;
+}
+.card-body > p {
+    text-align: left;
+}
+.card-title {
+    text-align: center;
+}
+.card-text {
+    text-align: left;
+}
+.card-img-top {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
